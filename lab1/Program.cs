@@ -48,7 +48,7 @@ namespace GeneticsProject
             using StreamReader reader = new StreamReader(inputFilename);
             using StreamWriter writer = new StreamWriter(outputFilename);
 
-            writer.WriteLine("Tsimafei 65utiyukyuyku");
+            writer.WriteLine("Tsimafei Heiba");
             writer.WriteLine("Genetic Searching");
             writer.WriteLine("--------------------------------------------------------------------------");
 
